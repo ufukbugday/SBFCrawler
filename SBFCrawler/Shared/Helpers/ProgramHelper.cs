@@ -1,5 +1,6 @@
 ﻿using CefSharp.OffScreen;
 using Microsoft.Extensions.Configuration;
+using SBFCrawler.Model;
 using SBFCrawler.Services;
 
 namespace SBFCrawler.Shared.Helpers

@@ -1,5 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-using SBFCrawler.Model;
+﻿using SBFCrawler.Model;
 
 namespace SBFCrawler.Shared.Helpers
 {

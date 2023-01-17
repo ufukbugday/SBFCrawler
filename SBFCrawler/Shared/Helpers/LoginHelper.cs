@@ -1,5 +1,4 @@
-﻿using Microsoft.Extensions.Configuration;
-using SBFCrawler.Model;
+﻿using SBFCrawler.Model;
 
 namespace SBFCrawler.Shared.Helpers
 {

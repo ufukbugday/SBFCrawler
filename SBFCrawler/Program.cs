@@ -2,6 +2,7 @@
 using CefSharp.OffScreen;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
+using SBFCrawler.Model;
 using SBFCrawler.Services;
 using SBFCrawler.Shared.Helpers;
 
